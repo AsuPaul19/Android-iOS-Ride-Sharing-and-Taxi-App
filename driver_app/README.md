@@ -4,13 +4,29 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+##  Learn Flutter 2.10 & Firebase - Develop iOS & Android Largest Ride Sharing and Taxi Apps like Uber, myTaxi & Lyft Clone
 
-A few resources to get you started if this is your first Flutter project:
+## Firebase helps you build and run successful apps.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+##  This project is a starting point for a Flutter application.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### ********   Key Take Away   ********    #####
+
+##  Build Fully Functional Ride Sharing & Taxi Ordering App like UBER &  OLA Clone
+##  Build Fully Functional Drivers App
+##  Build Fully Functional Users App
+##  Google Maps Api
+##  Learn Google Maps Api Integration in Flutter Apps
+##  Learn Google Map Implementation in Flutter Apps
+##  Learn Real Time Location Tracking on Google Maps
+##  How to Draw Routes between Source and Destination Locations
+##  Learn Flutter Backend App Development
+##  How to work and Communicate with API's
+##  Direction Api
+##  Places Api [Auto Complete Search Location]
+##  Advanced State Management
+##  Provider State Management
+##  and much more.
+######
+
+
